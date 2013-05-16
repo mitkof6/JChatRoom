@@ -14,6 +14,8 @@ What It Can Do
 
 * Send text messages
 
+![Alt text](/doc.png "Main Window")
+
 Description
 ===========
 
